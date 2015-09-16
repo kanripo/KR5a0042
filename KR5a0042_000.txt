@@ -1,7 +1,8 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:35:17.894892
+# -*- mode: mandoku-view -*-
 #+TITLE: 玉清元始玄黃九光真經
-#+PROPERTY: DZID  DZ0042
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，1—867 一卷 洞真部本文類
+#+DATE: 2015-08-28 23:35:18
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+<md:KR5a0042_HFL_001-001a>¶<pb:KR5a0042_SJB_001-010867a>
+
